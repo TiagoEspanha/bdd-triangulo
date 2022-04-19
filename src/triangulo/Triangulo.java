@@ -1,11 +1,11 @@
-package triangulo;
+package src.triangulo;
 
 
 /*******************************************************************************
- * Classe que verifica se trÍs valores informados formam um tri‚ngulo, ou seja,
- * se cada lado È menor que a soma dos outros dois lados. Em caso positivo,
- * informa se o tri‚ngulo È isÛsceles (dois lados iguais e um diferente),
- * escaleno (todos os lados diferentes) ou equil·tero (todos os lados iguais).
+ * Classe que verifica se tr√™s valores informados formam um tri√¢ngulo, ou seja,
+ * se cada lado √© menor que a soma dos outros dois lados. Em caso positivo,
+ * informa se o tri√¢ngulo √© is√≥sceles (dois lados iguais e um diferente),
+ * escaleno (todos os lados diferentes) ou equil√°tero (todos os lados iguais).
  *******************************************************************************/
 
 public class Triangulo {

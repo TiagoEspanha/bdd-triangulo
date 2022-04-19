@@ -1,0 +1,17 @@
+
+Dado que quero verificar se 3 lados formam um triangulo
+Quando os lados inseridos não formam um triangulo
+Então a mensagem "Nao eh um triangulo" deve ser retornada
+
+Dado que quero verificar se 3 lados formam um triangulo
+Quando os lados inseridos formam um triangulo e são todos iguais
+Então a mensagem "O triangulo eh equilatero" deve ser retornada
+
+Dado que quero verificar se 3 lados formam um triangulo
+Quando os lados inseridos formam um triangulo e dois deles são iguais
+Então a mensagem "O triangulo eh isosceles" deve ser retornada
+
+Dado que quero verificar se 3 lados formam um triangulo
+Quando os lados inseridos formam um triangulo e nenhum deles é igual
+Então a mensagem "O triangulo eh escaleno" deve ser retornada
+
